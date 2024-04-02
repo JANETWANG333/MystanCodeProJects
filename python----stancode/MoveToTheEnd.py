@@ -12,10 +12,10 @@ from karel.stanfordkarel import *
 
 def main():
     """
-    TODO:
+    Karel will move to the end of the first Street in any world
     """
-    pass
-
+    while front_is_clear():
+        move()
 
 # ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
 if __name__ == '__main__':

@@ -19,5 +19,5 @@ Watch my *[DEMO VIDEO!](https://www.youtube.com/watch?v=KkMDCCdjyW8)*
   * python semantic & syntax
 * [ Steeplechase](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/Steeplechase.py)
   * python semantic & syntax
-* [StepUp].(https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/StepUp.py)
+* [StepUp](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/StepUp.py)
   * python semantic & syntax

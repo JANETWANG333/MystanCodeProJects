@@ -1,8 +1,8 @@
 ## *stanCode* Projects
-Hello there!＼
+Hello there!\
 This repository holds my programming projects done during the period of standCode SC101 course.
 
-Watch my [DEMO VIDEO!](https://www.youtube.com/watch?v=KkMDCCdjyW8)
+Watch my *[DEMO VIDEO!](https://www.youtube.com/watch?v=KkMDCCdjyW8)*
 
 ## Project Sourse Codes:
 * [BeeperRow](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/BeeperRow.py)
